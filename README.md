@@ -29,7 +29,7 @@ Python Notebook : https://github.com/Shashank-Sundi/NOTEBOOKS/blob/main/thyroid-
 
 | PROBLEM | MODELS USED  |LIBRARIES USED   |IDE's USED|
 | :-------- | :------- | :------------------------- | :-------|
-| **Predicting if the person is having an extra marital affair**| `XGBOOST,ADABOOST ,LOG-REG ,KNN ,RANDOM FOREST ,DECISION TREE ,SVC ,NAIVE BAYES, STACKING CLASSIFIER ` | `Sklearn , Seaborn ,Pandas ,Numpy ,Scipy ,Xgboost `|`PyCharm,` `VS Code,` `Jupyter Notebook`|
+| **Predicting if a patient suffers from Thyroid Disease**| `LOGISTIC REG,KNN,SVC,NAIVE BAYES,RANDOM FOREST,XGBOOST` | `Sklearn , Seaborn ,Pandas ,Numpy ,Scipy ,Xgboost `|`PyCharm,` `VS Code,` `Jupyter Notebook`|
 
 <hr>
 
