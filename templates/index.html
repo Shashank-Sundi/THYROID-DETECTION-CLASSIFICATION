@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>THYROID DETECTION</title>
+    <link rel="stylesheet" href="../static/styles/index_page.css">
+
+</head>
+
+    <body class='bg'>
+            <div class="content" style="background-color: rgba(255, 173, 21, 0.8) ; color:rgb(0, 0, 0);">
+                <h1 style="text-align: center">THYROID DETECTION</h1>
+
+                <div class="form">
+                    <p><u><b>Enter the Required Parameters :</b></u></p>
+                    <form action="/Prediction" method="POST" autocomplete="on">
+
+                        <label for="Age"><b>Age</b></label>
+                        <input type="number" name="Age" id="Age" placeholder="Age" step="any" >
+                        &nbsp; &nbsp;
+
+                        <label for="Sex"><b>Sex</b></label>
+                        <select name="Sex" id="Sex" >
+                            <option value=1>Male</option>
+                            <option value=0>Female</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="on_thyroxine"><b>On Thyroxine ? </b></label>
+                        <select name="on_thyroxine" id="on_thyroxine" >
+                            <option value=0>Yes</option>
+                            <option value=1>No</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="query_on_thyroxine"><b>Query On Thyroxine ? </b></label>
+                        <select name="query_on_thyroxine" id="query_on_thyroxine" >
+                            <option value=0>Yes</option>
+                            <option value=1>No</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="on_antithyroid_medication"><b>On Antithyroid Medication ?</b></label>
+                        <select name="on_antithyroid_medication" id="on_antithyroid_medication" >
+                            <option value=0>Yes</option>
+                            <option value=1>No</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="sick"><b>Sick ? </b></label>
+                        <select name="sick" id="sick" >
+                            <option value=0>Yes</option>
+                            <option value=1>No</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="pregnant"><b>Pregnant ? </b></label>
+                        <select name="pregnant" id="pregnant" >
+                            <option value=0>Yes</option>
+                            <option value=1>No</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="thyroid_surgery"><b>Thyroid Surgery ?</b></label>
+                        <select name="thyroid_surgery" id="thyroid_surgery" >
+                            <option value=0>Yes</option>
+                            <option value=1>No</option>
+                        </select>
+                        &nbsp; &nbsp;
+                        <br>
+
+                        <label for="I131_treatment"><b>I131 Treatment ?</b></label>
+                        <select name="I131_treatment" id="I131_treatment" >
+                            <option value=0>Yes</option>
+                            <option value=1>No</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="query_hypothyroid"><b>Query Hypothyroid ?</b></label>
+                        <select name="query_hypothyroid" id="query_hypothyroid" >
+                            <option value=0>Yes</option>
+                            <option value=1>No</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="query_hyperthyroid"><b>Query Hyperthyroid ?</b></label>
+                        <select name="query_hyperthyroid" id="query_hyperthyroid" >
+                            <option value=0>Yes</option>
+                            <option value=1>No</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="lithium"><b>On Lithium ?</b></label>
+                        <select name="lithium" id="lithium" >
+                            <option value=0>Yes</option>
+                            <option value=1>No</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="goitre"><b>Have Goitre ?</b></label>
+                        <select name="goitre" id="goitre" >
+                            <option value=0>Yes</option>
+                            <option value=1>No</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="tumor"><b>Have Tumor ?</b></label>
+                        <select name="tumor" id="tumor" >
+                            <option value=0>Yes</option>
+                            <option value=1>No</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="hypopituitary"><b>Hypopituitary</b></label>
+                        <select name="hypopituitary" id="hypopituitary" >
+                            <option value=0>Yes</option>
+                            <option value=1>No</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="psych"><b>psych</b></label>
+                        <select name="psych" id="psych" >
+                            <option value=0>Yes</option>
+                            <option value=1>No</option>
+                        </select>
+                        &nbsp; &nbsp;
+                        <br><br>
+
+                        <label for="TSH"><b>TSH</b></label>
+                        <input type="number" name="TSH" id="TSH" placeholder="Measured TSH" step="any" >
+                        &nbsp; &nbsp;
+                        
+
+                        <label for="T3"><b>T3</b></label>
+                        <input type="number" name="T3" id="T3" placeholder="Measured T3" step="any" >
+                        &nbsp; &nbsp;
+
+                        <label for="TT4"><b>TT4</b></label>
+                        <input type="number" name="TT4" id="TT4" placeholder="Measured TT4" step="any" >
+                        &nbsp; &nbsp;
+
+                        <label for="T4U"><b>T4U</b></label>
+                        <input type="number" name="T4U" id="T4U" placeholder="Measured T4U" step="any" >
+                        &nbsp; &nbsp;
+
+                        <label for="FTI"><b>FTI</b></label>
+                        <input type="number" name="FTI" id="FTI" placeholder="Measured " step="any" >
+                        &nbsp; &nbsp;
+
+                        <label for="referral_source"><b>Referral Source</b></label>
+                        <select name="referral_source" id="referral_source" >
+                            <option value=1034>SVI</option>
+                            <option value=386>SVHC</option>
+                            <option value=112>STMW</option>
+                            <option value=39>SVHD</option>
+                            <option value=2201>Other</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <input type="submit" value="Predict">
+                    </form>
+                    <br><br>
+
+                </div>
+            </div>
+
+            <div style="bottom: 0px;">
+                <div>
+
+                    <img class="profile"  src= "../static/images/72919592_417753879153334_1723338761183428608_n.png"alt="Shashank Sundi" style="width:200px;height:200px;" >
+                </div>
+
+                <div >
+                    <a href="https://github.com/Shashank-Sundi/FIFA-FOOTBALL-PLAYER-RATING-PREDICTION" target="_blank">
+                        <img alt="github link" src="../static/images/git.png" width=40" height="40" style="border-radius: 50%;margin-top: 15px;margin-left: 10px;border-color: wheat;border-style: solid;border-width: 4px;">
+                     </a>
+
+
+                     <a href="https://www.linkedin.com/in/shashank-sundi-4b78561b1" target="_blank">
+                        <img alt="linkedin" src="../static/images/Linkedin-logo-vector-PNG.png" width=50" height="50" style="border-radius: 50%;margin-top: 15px;margin-left: 10px;">
+                     </a>
+
+                     <a href="mailto:sundi.sn@gmail.com" >
+                    <img src="../static/images/gmailll.png" width=40" height="40" style="border-radius: 50%;margin-top: 15px;margin-left: 10px;border-color: wheat;border-style: solid;border-width: 4px;"> </a>
+                </div>
+            </div>
+    </body>
+</html>
+
