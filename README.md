@@ -39,25 +39,37 @@ Python Notebook : https://github.com/Shashank-Sundi/NOTEBOOKS/blob/main/thyroid-
 
 | **Step**|**Execution of the project was carried out as given in the following steps :** |
 | :--------|:-------- | 
-|1|Extracted dataset from statsmodels package  |
-|2| Validated data types of the features and analysed the statistical properties of the features
-|3|Performed EDA on data - checked the distribution of data using NPP, KDE plots ; checked for outliers via boxplots
-|4| Standardizing the data and Oversampling the minority class , using SMOTE
-|5|  Metric used to evaluate models - We use Accuracy and Precision
-|6| Trained and tested various models on the data and chose the model which gave highest accuracy score 
-|7| Stacking model with xgboost classifier and random forest gave highest precision ( 78.906 % ) for the test set
-|8|Hyperparameter tuning of stacking model
-|9| Exported the stacking model via pickle
+|1| Validated and rectified the data types of the features and analysed their statistical properties|
+|2| Created some new features capturing the importance of missing values in some features
+|3| Removed invalid data types and imputed missing values with corresponding feature means
+|4|Encoded columns using Frequency Encoding and mapping
+|5|Performed EDA on data - checked the distribution of data using NPP, KDE plots ; checked for outliers via boxplots
+|6|Removed Extreme Outliers
+|7| Oversampled the minority class , using SMOTE
+|8| Visualixed the correlation matrix and removed Multi-Collinearity
+|9|Clustered the dataset into 4 clusters , using Kmeans and the elbow graph
+|10| Metric used to evaluate models - We use Accuracy and Recall
+|11| Trained and tested various models on the data clusters and for each cluster , chose the model which gave highest recall score 
+|12.1| Best Model for Cluster 1 : rf --Recall : 99.37%
+|12.2|Best Model for Cluster 2 : xgb --Recall : 99.29%
+|12.3|Best Model for Cluster 3 : Logreg --Recall : 99.43%
+|12.4|Best Model for Cluster 4 : Logreg --Recall : 99.12%
+|13| Exported all required models via pickle
 
 
 ### (B) **Building the Application**
 
 | **Step**|**Execution of the project was carried out as given in the following steps :** |
 | :--------|:-------- | 
-|1| Built REST API using Flask framework ; created routes for home page and pred
-|2| Built html pages for data input and results prediction
-|3| Created the requirements.txt , Procfile , etc. and all other requirements to be satisfied for deployment.
-|4| Deployed the model on Heroku via Git Bash terminal
+|1| Built Log Writer Package , for writing the log messages in a centralised log file
+|2| Built the Data Formatter Package, for aggregating the inputs from the html form ; converting the input to a dataframe
+|3| Buil the Valaidator Package , to validate the data types of inputs , column names , length etc.
+|4| Built the Preprocessing Package ,for imputation , encoding and other transformations
+|5| Built Package for finding the cluster to which the input data belongs ; exporting the model trained for the corresponding cluster
+|5| Built REST API using Flask framework ; created routes for home page and prediction , by calling all the required modules 
+|6| Created the requirements.txt , Procfile , etc. and all other requirements to be satisfied for deployment.
+|7| Built html pages for data input and results prediction
+|8| Deployed the model on Heroku via Git Bash terminal
 
 <hr>
 
