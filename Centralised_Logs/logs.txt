@@ -1,0 +1,547 @@
+DATE : 2021-10-14 --- TIME : 09:06:31 		 Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:06:31 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:06:31 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:06:31 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:06:31 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 09:06:19 		 Rendered Home Page 
+DATE : 2021-10-14 --- TIME : 09:06:52 		 Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:06:52 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:06:52 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:06:52 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:06:52 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 09:06:31 		 Error Occured in index page route 
+DATE : 2021-10-14 --- TIME : 09:15:04 		 Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:15:13 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:15:24 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:15:27 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:15:30 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 09:17:03 		 Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:17:03 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:17:03 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:17:03 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:17:03 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 09:17:03 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 09:17:03 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 09:17:03 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 09:17:03 		 The data type of values in column TSH_nan is not same as int32 
+DATE : 2021-10-14 --- TIME : 09:17:04 		 Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:17:04 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:17:04 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:17:04 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:17:04 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 09:17:04 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 09:17:04 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 09:17:04 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 09:17:04 		 The data type of values in column TSH_nan is not same as int32 
+DATE : 2021-10-14 --- TIME : 09:17:04 		 Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:17:04 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:17:04 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:17:04 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:17:04 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 09:17:04 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 09:17:04 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 09:17:04 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 09:17:04 		 The data type of values in column TSH_nan is not same as int32 
+DATE : 2021-10-14 --- TIME : 09:18:22 		 Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:18:25 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:18:28 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:18:28 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:18:30 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 09:18:47 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 09:18:56 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 09:19:01 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 09:19:42 		 The data type of values in column TSH_nan is not same as int32 
+DATE : 2021-10-14 --- TIME : 09:23:40 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:23:42 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:23:42 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 09:23:42 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:23:53 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 09:23:55 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 09:23:57 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 09:24:29 		 The data type of values in column T3 is not same as float32 
+DATE : 2021-10-14 --- TIME : 09:28:48 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:28:50 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:28:59 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 09:23:27 		 Rendered Home Page 
+DATE : 2021-10-14 --- TIME : 09:28:59 		 ERROR occured in null value imputation 
+DATE : 2021-10-14 --- TIME : 09:42:54 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:42:55 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:42:55 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 09:42:55 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:44:31 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:44:33 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:44:33 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 09:44:33 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:44:42 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 09:44:47 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 09:44:48 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 09:47:02 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:47:03 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:47:03 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 09:47:03 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:47:08 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 09:47:12 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 09:47:13 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 09:48:02 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 09:57:23 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:57:23 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 09:57:24 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 09:57:24 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 09:57:27 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 09:57:27 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 09:57:27 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 10:03:35 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 10:03:36 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 10:03:36 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 10:03:36 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 10:03:39 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 10:03:39 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 10:03:39 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 10:05:38 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 10:05:39 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 10:05:39 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 10:05:39 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 10:05:42 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 10:05:42 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 10:05:42 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 10:05:53 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 10:05:56 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 10:06:32 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 10:05:04 		 Rendered Home Page 
+DATE : 2021-10-14 --- TIME : 10:07:58 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 10:07:58 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 10:07:59 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 10:07:59 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 10:08:01 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 10:08:01 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 10:08:01 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 10:08:07 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 10:08:09 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 10:08:18 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 10:10:44 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 10:10:45 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 10:10:45 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 10:10:45 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 10:10:49 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 10:10:49 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 10:10:49 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 10:10:56 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 10:10:58 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 10:11:07 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 10:11:21 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 10:11:24 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 10:10:25 		 Rendered Home Page 
+DATE : 2021-10-14 --- TIME : 10:47:20 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 10:47:20 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 10:47:20 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 10:47:21 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 10:47:21 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 10:47:21 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 10:47:21 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 10:47:21 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 10:47:21 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 10:47:38 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 10:47:38 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 10:47:40 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 10:47:45 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 10:47:45 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 10:47:12 		 Rendered Home Page 
+DATE : 2021-10-14 --- TIME : 10:49:58 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 10:49:58 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 10:49:58 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 10:49:58 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 10:49:58 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 10:49:58 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 10:49:58 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 10:49:58 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 10:49:58 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 10:49:59 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 10:49:59 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 10:49:59 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 10:49:59 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 10:49:59 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 10:49:51 		 Rendered Home Page 
+DATE : 2021-10-14 --- TIME : 10:59:09 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 10:59:09 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 10:59:09 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 10:59:09 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 10:59:09 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 10:59:09 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 10:59:09 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 10:59:09 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 10:59:09 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 10:59:11 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 10:59:11 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 10:59:11 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 10:59:11 		 cluster : 4 -- Model for data pt.-->Logistic Regression  
+DATE : 2021-10-14 --- TIME : 10:59:11 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 10:59:41 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 10:59:41 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 10:59:41 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 10:59:41 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 10:59:41 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 10:59:41 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 10:59:41 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 10:59:41 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 10:59:41 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 10:59:42 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 10:59:42 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 10:59:42 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 10:59:42 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 10:59:42 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 11:00:45 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:00:45 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:00:45 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:00:45 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:00:45 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 11:00:45 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 11:00:45 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 11:00:45 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 11:00:45 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 11:00:46 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:00:46 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:00:46 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 11:00:46 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 11:00:46 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 11:03:11 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:03:11 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:03:11 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:03:11 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:03:11 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 11:03:11 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 11:03:11 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 11:03:11 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 11:03:11 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 11:03:12 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:03:12 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:03:12 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 11:03:12 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 11:03:12 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 11:03:41 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:03:41 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:03:41 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:03:41 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:03:41 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 11:03:41 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 11:03:41 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 11:03:41 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 11:03:41 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 11:03:41 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:03:41 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:03:41 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 11:03:42 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 11:03:42 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 11:05:07 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:05:07 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:05:07 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:05:07 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:05:07 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 11:05:07 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 11:05:07 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 11:05:07 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 11:05:07 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 11:05:08 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:05:08 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:05:08 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 11:05:08 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 11:05:08 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 11:07:09 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:07:09 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:07:09 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:07:09 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:07:09 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 11:07:09 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 11:07:09 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 11:07:09 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 11:07:09 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 11:07:10 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:07:10 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:07:10 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 11:07:10 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 11:07:10 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 11:07:06 		 Rendered Home Page 
+DATE : 2021-10-14 --- TIME : 11:07:30 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:07:30 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:07:30 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:07:30 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:07:30 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 11:07:30 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 11:07:30 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 11:07:30 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 11:07:30 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 11:07:31 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:07:31 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:07:31 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 11:07:31 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 11:07:31 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 11:08:48 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:08:48 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:08:48 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:08:48 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:08:48 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 11:08:48 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 11:08:48 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 11:08:48 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 11:08:48 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 11:08:48 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:08:48 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:08:48 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 11:08:49 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 11:08:49 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 11:08:39 		 Rendered Home Page 
+DATE : 2021-10-14 --- TIME : 11:13:01 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:13:01 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:13:01 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:13:01 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:13:01 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 11:13:01 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 11:13:01 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 11:13:01 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 11:13:01 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 11:13:02 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:13:02 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:13:02 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 11:13:02 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 11:13:02 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 11:12:55 		 Rendered Home Page 
+DATE : 2021-10-14 --- TIME : 11:13:59 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:13:59 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:13:59 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:13:59 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:13:59 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 11:13:59 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 11:13:59 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 11:13:59 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 11:13:59 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 11:13:59 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:13:59 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:13:59 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 11:13:59 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 11:13:59 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 11:14:16 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:14:16 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:14:16 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:14:16 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:14:16 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 11:14:16 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 11:14:16 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 11:14:16 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 11:14:16 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 11:14:16 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:14:16 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:14:16 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 11:14:16 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 11:14:16 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 11:19:09 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:19:09 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:19:09 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:19:09 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:19:09 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 11:19:09 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 11:19:09 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 11:19:09 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 11:19:09 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 11:19:09 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:19:09 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:19:09 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 11:19:10 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 11:19:10 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 11:26:11 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:26:11 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:26:11 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:26:11 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:26:11 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 11:26:11 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 11:26:11 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 11:26:11 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 11:26:11 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 11:26:12 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:26:12 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:26:12 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 11:26:12 		 cluster : 2 -- Model for data pt.-->XGBoost  
+DATE : 2021-10-14 --- TIME : 11:26:12 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 11:26:49 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:26:49 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:26:49 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:26:49 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:26:49 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 11:26:49 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 11:26:49 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 11:26:49 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 11:26:49 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 11:26:49 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:26:49 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:26:49 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 11:26:49 		 cluster : 2 -- Model for data pt.-->XGBoost  
+DATE : 2021-10-14 --- TIME : 11:26:49 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 11:29:52 		 
+
+Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:29:52 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:29:52 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:29:52 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:29:52 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 11:29:52 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 11:29:52 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 11:29:52 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 11:29:52 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 11:29:52 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:29:52 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:29:52 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 11:29:53 		 cluster : 2 -- Model for data pt.-->XGBoost  
+DATE : 2021-10-14 --- TIME : 11:29:53 		 Found Model and cluster successfully 
+DATE : 2021-10-14 --- TIME : 11:53:34 		 Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:53:34 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:53:34 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:53:34 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:53:34 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 11:53:34 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 11:53:34 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 11:53:34 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 11:53:34 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 11:53:34 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:53:34 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:53:34 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 11:53:35 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 11:53:35 		 Found Model and cluster successfully
+
+ 
+DATE : 2021-10-14 --- TIME : 11:53:29 		 Rendered Home Page 
+DATE : 2021-10-14 --- TIME : 11:54:17 		 Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:54:17 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:54:17 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:54:17 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:54:17 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 11:54:17 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 11:54:17 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 11:54:17 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 11:54:17 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 11:54:17 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:54:17 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:54:17 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 11:54:17 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 11:54:17 		 Found Model and cluster successfully
+
+ 
+DATE : 2021-10-14 --- TIME : 11:54:58 		 Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:54:58 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:54:58 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:54:58 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:54:58 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 11:54:58 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 11:54:58 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 11:54:58 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 11:54:58 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 11:54:58 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:54:59 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:54:59 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 11:54:59 		 cluster : 2 -- Model for data pt.-->XGBoost  
+DATE : 2021-10-14 --- TIME : 11:54:59 		 Found Model and cluster successfully
+
+ 
+DATE : 2021-10-14 --- TIME : 11:54:13 		 Rendered Home Page 
+DATE : 2021-10-14 --- TIME : 11:57:55 		 Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:57:55 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 11:57:55 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:58:05 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 11:58:05 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 11:58:05 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 11:58:06 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 11:58:06 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 11:58:06 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 11:58:06 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:58:06 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 11:58:06 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 11:58:06 		 cluster : 4 -- Model for data pt.-->Logistic Regression  
+DATE : 2021-10-14 --- TIME : 11:58:06 		 Found Model and cluster successfully
+
+ 
+DATE : 2021-10-14 --- TIME : 12:18:22 		 Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 12:18:22 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 12:18:22 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 12:18:22 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 12:18:22 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 12:18:22 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 12:18:22 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 12:18:22 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 12:18:22 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 12:18:32 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 12:18:32 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 12:18:32 		 The point belongs to cluster 0 
+DATE : 2021-10-14 --- TIME : 12:18:32 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 12:18:34 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 12:18:34 		 Found Model and cluster successfully
+
+ 
+DATE : 2021-10-14 --- TIME : 12:17:52 		 Rendered Home Page 
+DATE : 2021-10-14 --- TIME : 12:21:15 		 Collected inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 12:21:15 		 Aggregated data inputs from HTML form 
+DATE : 2021-10-14 --- TIME : 12:21:15 		 Converting raw data to DataFrame 
+DATE : 2021-10-14 --- TIME : 12:21:15 		 Converted Raw Data to DataFrame 
+DATE : 2021-10-14 --- TIME : 12:21:15 		 Formatted Data Successfully 
+DATE : 2021-10-14 --- TIME : 12:21:15 		 Extracted column length and column names from schema 
+DATE : 2021-10-14 --- TIME : 12:21:15 		 Column Length Validated 
+DATE : 2021-10-14 --- TIME : 12:21:15 		 Column Names Validated 
+DATE : 2021-10-14 --- TIME : 12:21:15 		 Data Validation Successfull 
+DATE : 2021-10-14 --- TIME : 12:21:16 		 Null Value Imputation Completed Successfully 
+DATE : 2021-10-14 --- TIME : 12:21:16 		 Data Preprocessing Completed Successfully 
+DATE : 2021-10-14 --- TIME : 12:21:16 		 The point belongs to cluster 1 
+DATE : 2021-10-14 --- TIME : 12:21:16 		 Found the cluster to which the data point belongs 
+DATE : 2021-10-14 --- TIME : 12:21:17 		 cluster : 1 -- Model for data pt.-->Random Forest  
+DATE : 2021-10-14 --- TIME : 12:21:17 		 Found Model and cluster successfully
+
+ 
