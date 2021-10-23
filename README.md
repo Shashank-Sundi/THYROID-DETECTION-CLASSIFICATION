@@ -21,6 +21,8 @@ The model has been deployed using REST API using flask, on Heroku :  https://thy
 
 Original Dataset : https://github.com/Shashank-Sundi/THYROID-DETECTION-CLASSIFICATION/blob/main/hypothyroid.csv
 
+Python Notebook : https://shashank-sundi.github.io/THYROID-DETECTION-CLASSIFICATION/
+
 Python Notebook : https://github.com/Shashank-Sundi/NOTEBOOKS/blob/main/thyroid-prediction.ipynb
 
 <hr>
