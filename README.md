@@ -79,11 +79,11 @@ Python Notebook : https://github.com/Shashank-Sundi/NOTEBOOKS/blob/main/thyroid-
 
 ### **Enter the required inputs in home page and press predict button**
 
-<img src="static\images\homethyroid.PNG" alt="FIFA" style="height: 300px; width:700px;"/>
+<img src="static\images\homethyroid.PNG" alt="FIFA" />
 
 ### **The Prediction Page**
 
-<img src="static\images\resultthyroid.PNG" alt="FIFA" style="height: 300px; width:700px;"/>
+<img src="static\images\resultthyroid.PNG" alt="FIFA" />
 
 <hr>
   
